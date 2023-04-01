@@ -15,8 +15,6 @@ local sources = {
   -- Lua
   b.formatting.stylua,
 
-  -- cpp
-  b.formatting.clang_format,
 }
 
 null_ls.setup {
